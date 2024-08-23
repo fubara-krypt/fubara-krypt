@@ -1,4 +1,4 @@
-**Hi there! I'm Fubara 👋
+Hi there! I'm Fubara 👋
 
 About Me
 - 💼 Product Designer | UI/UX Engineer
@@ -12,4 +12,3 @@ Skills
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/fubara-dickson)
 - [Portfolio](https://fubaradickson.vercel.app)
-******
