@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! I'm Fubara 👋
 
-<!--
-**fubara-krypt/fubara-krypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- 💼 Product Designer | UI/UX Engineer
+- 🌱 Currently working on exciting projects like [Ribbon](https://ribbontms.com) and more!
 
-Here are some ideas to get you started:
+What I'm Up To:
+- Designing a Health Tech Saas Product
+- Developing an e-hailing app 🚗
+- Building a unique AR experience for Apple launches 🍏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- 💻 HTML, CSS, Saas, Tailwind CSS JavaScript,
+- 🎨 UI/UX Design
+- 🚀 Product Development
+
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/fubara-dickson)
+- [Portfolio](https://fubaradickson.vercel.app)
